@@ -1,0 +1,16 @@
+certifi==2023.7.22
+et-xmlfile==1.1.0
+linecache2==1.0.0
+minio==7.1.16
+numpy==1.25.2
+openpyxl==3.1.2
+pandas==2.0.3
+psycopg2-binary==2.9.7
+python-dateutil==2.8.2
+pytz==2023.3
+six==1.16.0
+traceback2==1.4.0
+tzdata==2023.3
+unittest2==1.1.0
+urllib3==2.0.4
+twine==4.0.2
