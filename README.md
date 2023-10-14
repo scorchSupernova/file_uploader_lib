@@ -1,6 +1,6 @@
 # file_uploader_lib
 
-## This is a uploader library that is able to upload data to given table from your given excel sheet.
+## This is an uploader library that is able to upload data to given table from your given excel sheet.
 
 ## Prerequisites
     [] Using Minio - https://min.io/
